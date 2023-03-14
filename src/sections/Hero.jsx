@@ -3,7 +3,7 @@ import { motion } from "framer-motion"
 import { styles } from "../styles"
 import { ComputersCanvas } from "./canvas"
 import { text } from "../constants/textData"
-import ScrollAnimation from '../components/navbar/ScrollAnimation'
+import ScrollAnimation from '../components/hero/ScrollAnimation'
 
 const Hero = () => {
   const heroLine = text["hero-text"]
